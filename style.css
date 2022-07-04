@@ -1,0 +1,44 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+.header {
+    font-size: 50px;
+    color: rgb(66, 63, 63);
+}
+
+.colorful {
+    color: orange;
+}
+
+.top {
+    margin-top: 150px;
+}
+
+.full_container {
+    display: flex;
+    padding-left: 5px;
+
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2px;
+}
+
+.half-width img {
+    width: 100%;
+    margin-top: 10%;
+}
+
+.button {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, Tomato);
+    color: white;
+    border-radius: 20px;
+    font-weight: bold;
+}
