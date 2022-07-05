@@ -97,6 +97,26 @@ body {
 
 #bottom-area {
     margin-top: 10%;
+    margin-bottom: 5%;
     justify-content: center;
+}
 
+footer {
+    text-align: center;
+    background-color: rgb(33, 32, 32);
+    height: 80%;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+footer h1 {
+    color: rgb(114, 107, 107);
+}
+
+footer p {
+    color: white;
+}
+
+.footer-color {
+    color: orange;
 }
